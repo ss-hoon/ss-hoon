@@ -1,22 +1,12 @@
 # 🙋‍♂️ SangHoon, Lee
 
-Visit : 
+[Visit]
 <p align="center">
   <a href="https://github.com/ss-hoon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fss-hoon&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-Stat : 
+[Baekjoon Online Judge Rank]
 <p align='center'>
-  <a href="https://github.com/ss-hoon/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ss-hoon&hide=issues&show_icons=true&theme=graywhite"/>
-  </a>
-</p>
-
-Baekjoon Online Judge Rank : 
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-hoon&layout=compact"/>
-  </a>
   <a href="https://solved.ac/lshoon1128">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=lshoon1128"/>
   </a>
