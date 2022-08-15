@@ -25,4 +25,4 @@ I'm junior software engineer.
 
 ## ✉️ Contact Me
 
-[lshoon1128@naver.com](mailto:lshoon1128@naver.com)
+* Email : [lshoon1128@naver.com](mailto:lshoon1128@naver.com)
