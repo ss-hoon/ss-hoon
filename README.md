@@ -18,8 +18,7 @@ I'm junior software engineer.
 </p>
 
 <p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshoon1128)](https://solved.ac/lshoon1128/)
+  <a href="https://solved.ac/lshoon1128">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lshoon1128)" />
+  </a>
 </p>
- 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshoon1128)](https://solved.ac/lshoon1128)
