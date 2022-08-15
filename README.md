@@ -22,3 +22,11 @@ I'm junior software engineer.
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lshoon1128" />
   </a>
 </p>
+
+## ✉️ Contact Me
+
+<p align="center">
+  <a href="mailto:lshoon1128@naver.com">
+    lshoon1128@naver.com
+  /a>
+</p>
