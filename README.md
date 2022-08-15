@@ -22,4 +22,4 @@ I'm junior software engineer.
 </p>
  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lshoon1128)](https://solved.ac/lshoon1128/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshoon1128)](https://solved.ac/lshoon1128)
