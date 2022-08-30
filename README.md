@@ -2,13 +2,15 @@
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ss-hoon.github.io/)](https://ss-hoon.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshoon1128@gmail.com)](mailto:sshoon1128@gmail.com)
 
+Thank you for visiting my github page.
+
+I hope you get useful information.
+
 ## 📢 Introduce
 
 Hi, Nice to meet you!
 
-Thank you for visiting my github page.
-
-I hope you get useful information.
+I'm a back-end developer who pursues clean and efficient code.
 
 ## 🔎 Tech Stack
 
