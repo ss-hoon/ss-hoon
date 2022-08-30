@@ -6,7 +6,9 @@
 
 Hi, Nice to meet you!
 
-I'm junior software engineer.
+Thank you for visiting my github page.
+
+I hope you get useful information.
 
 ## 🔎 Tech Stack
 
